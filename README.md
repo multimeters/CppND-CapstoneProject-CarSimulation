@@ -2,6 +2,12 @@
 
 This code implements a car simulator. And implements MPC algorithm to control the simulated car to fllow a trajectory.
 
+## RESULT
+- 第一条轨迹结果（考虑输入延迟生效）如下：
+<p align="center">
+    <img src="mpc.gif" width="400"/>
+</p>
+
 ## Dependencies
 
 This software is built on the Robotic Operating System (ROS), which needs to be installed first. Additionally, the car simulation depends on following software:
@@ -45,21 +51,4 @@ roslaunch mpc_car simulation.launch
   <img src="equation3.png" width="800"/>
  </p>
 
-## RESULT
-- 第一条轨迹结果（考虑输入延迟生效）如下：
-<p align="center">
-    <img src="mpc.gif" width="400"/>
-</p>
-- 第二条轨迹结果：
-<p align="center">
-    <img src="mpc1.gif" width="400"/>
-</p>
-- 对于第三条轨迹，由于动力学ddelta_max的限制，模型车在进入第二个转弯的时候拐不过来，因此运行失败，如下所示：
-<p align="center">
-    <img src="mpc2_fail.gif" width="400"/>
-</p>
-将ddelta_max改为原来的两倍，最终能顺利到达终点。
-<p align="center">
-    <img src="mpc2_succeed.gif" width="400"/>
-</p>
 # CppND-CapstoneProject-CarSimulatorr
