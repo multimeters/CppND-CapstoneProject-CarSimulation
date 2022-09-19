@@ -29,4 +29,4 @@ This software is built on the Robotic Operating System (ROS), which needs to be 
 ./src/car_simulator/config/car_simulator.yaml -> initial states (in simulation)
 ```
 ## RUBRIC POINTS
-1.CRITERIA-The project reads data from a file and process the data, or the program writes data to a file. In "/home/lhl/uda_ws/Motion_Planning_Hw6/src/mpc_car/launch/simulation.launch" line 11. The <rosparam> tag enables the use of rosparam YAML files for loading and dumping parameters from the ROS Parameter Server. It can also be used to remove parameters. The <rosparam> tag can be put inside of a <node> tag, in which case the parameter is treated like a private name. 
+1.CRITERIA-The project reads data from a file and process the data, or the program writes data to a file. In "./src/mpc_car/launch/simulation.launch" line 11. The <rosparam> tag enables the use of rosparam YAML files for loading and dumping parameters from the ROS Parameter Server. It can also be used to remove parameters. The <rosparam> tag can be put inside of a <node> tag, in which case the parameter is treated like a private name. 
