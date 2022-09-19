@@ -2,8 +2,6 @@
 
 This code implements a car simulator. And implements MPC algorithm to control the simulated car to fllow a trajectory.
 
-## RESULT
-- 第一条轨迹结果（考虑输入延迟生效）如下：
 <p align="center">
     <img src="mpc.gif" width="400"/>
 </p>
