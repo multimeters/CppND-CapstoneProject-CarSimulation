@@ -28,25 +28,3 @@ This software is built on the Robotic Operating System (ROS), which needs to be 
 ./src/mpc_car/config/mpc_car.yaml -> mpc parameters
 ./src/car_simulator/config/car_simulator.yaml -> initial states (in simulation)
 ```
-
-## Theory
-
-### Linearize  Nonlinear Model
-
-<p align="center">
-  <img src="equation1.png" width="800"/>
-</p>
-
-### Constrained Quadratic Problem
- 
-<p align="center">
-   <img src="equation2.png" width="800"/>
-</p>
-
-### Delay Compensation
-
-<p align="center">
-  <img src="equation3.png" width="800"/>
- </p>
-
-# CppND-CapstoneProject-CarSimulatorr
