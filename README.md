@@ -46,12 +46,15 @@ not meet.
 ### Object Oriented Programming
 4.CRITERIA-The project uses Object Oriented Programming techniques.
 ```
-In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 20 . I definate a class called mpc_car with class attributes to hold the data, and class methods to perform tasks.
+In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 20 . 
+I definate a class called mpc_car with class attributes to hold the data, and class methods to perform tasks.
 ```
 5.CRITERIA-Classes use appropriate access specifiers for class members.
 ```
-In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 21 . I definate private members.
-In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 152 . I definate public members.
+In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 21 . 
+I definate private members.
+In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 152 .
+I definate public members.
 ```
 6.CRITERIA-Class constructors utilize member initialization lists.
 ```
