@@ -7,3 +7,5 @@ build/*
 .github/**
 .vscode/*
 devel/**
+.gitignore
+.catkin_workspace
