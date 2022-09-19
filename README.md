@@ -37,7 +37,12 @@ In "./src/mpc_car/include/mpc_car/mpc_car.hpp",line 415, i use "for" control str
 ```
 2.CRITERIA-The project reads data from a file and process the data, or the program writes data to a file.
 ```
- In "./src/mpc_car/launch/simulation.launch" line 11. The <rosparam> tag enables the use of rosparam YAML files for loading and dumping parameters from the ROS Parameter Server. It can also be used to remove parameters. The <rosparam> tag can be put inside of a <node> tag, in which case the parameter is treated like a private name. 
+ In "./src/mpc_car/launch/simulation.launch" line 11. 
+ The <rosparam> tag enables the use of rosparam YAML files for 
+ loading and dumping parameters from the ROS Parameter Server. 
+ It can also be used to remove parameters. 
+ The <rosparam> tag can be put inside of a <node> tag, 
+ in which case the parameter is treated like a private name. 
 ```
 3.CRITERIA-The project accepts user input and processes the input..
 ```
