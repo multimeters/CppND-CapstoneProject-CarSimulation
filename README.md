@@ -4,7 +4,7 @@
 
 ## Dependencies
 
-This software is built on the Robotic Operating System (ROS), which needs to be installed first. Additionally, the Robot-Centric Elevation Mapping depends on following software:
+This software is built on the Robotic Operating System (ROS), which needs to be installed first. Additionally, the car simulation depends on following software:
 
 * cmake >= 3.11
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
