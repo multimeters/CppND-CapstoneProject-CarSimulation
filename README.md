@@ -1,4 +1,4 @@
-#  ROS Car Simulation with MPC Controller 
+#  Car Simulation with MPC Controller 
 
 深蓝学院《移动机器人运动规划》第九期，第6章课程作业。该代码实现了基于nonlinear MPC的轨迹跟踪控制，并解决了系统控制时延的问题。
 
