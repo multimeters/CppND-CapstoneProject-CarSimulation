@@ -1,6 +1,6 @@
 #  Car Simulation with MPC Controller 
 
-This code implements a car simulator. And implements MPC algorithm to control the simulated car to fllow a trajectory.
+This code implements a car simulator. And implements MPC(Model Predictive Control) algorithm to control the simulated car to fllow a trajectory.
 
 <p align="center">
     <img src="mpc.gif" width="400"/>
