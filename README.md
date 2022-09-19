@@ -11,7 +11,7 @@ This code implements a car simulator. And implements MPC(Model Predictive Contro
 This software is built on the Robotic Operating System (ROS), which needs to be installed first. Additionally, the car simulation depends on following software:
 
 * ROS :noetic or melodic
-  * how to install ROS :[neotic](https://ros.org),[melodic](https://ros.org)
+  * how to install ROS :[neotic](http://wiki.ros.org/noetic/Installation/Ubuntu),[melodic](https://ros.org)
   
 * cmake >= 3.11
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
