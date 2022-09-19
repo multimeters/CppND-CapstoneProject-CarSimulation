@@ -16,10 +16,10 @@ This software is built on the Robotic Operating System (ROS), which needs to be 
 ## HOW TO RUN
 
 ```
-./install_tools.sh
-catkin_make -j1
-source devel/setup.bash
-roslaunch mpc_car simulation.launch
+1. ./install_tools.sh
+2. catkin_make -j1
+3. source devel/setup.bash
+4. roslaunch mpc_car simulation.launch
 ```
 
 ## HOW TO TURN PARAMETERS
