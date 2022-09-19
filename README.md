@@ -6,7 +6,7 @@ This code implements a car simulator. And implements MPC(Model Predictive Contro
     <img src="mpc.gif" width="400"/>
 </p>
 
-## Dependencies
+## DEPENDENCIES
 
 This software is built on the Robotic Operating System (ROS), which needs to be installed first.
 
@@ -28,3 +28,4 @@ This software is built on the Robotic Operating System (ROS), which needs to be 
 ./src/mpc_car/config/mpc_car.yaml -> mpc parameters
 ./src/car_simulator/config/car_simulator.yaml -> initial states (in simulation)
 ```
+## RUBRIC POINTS
