@@ -12,10 +12,6 @@ This software is built on the Robotic Operating System (ROS), which needs to be 
 
 * ROS : Noetic or Melodic
   * how to install ROS : [Neotic](http://wiki.ros.org/noetic/Installation/Ubuntu) , [Melodic](https://wiki.ros.org/melodic)
-* Ubuntu : 18.04 or 20.04
-  * how to install ROS : [Neotic](http://wiki.ros.org/noetic/Installation/Ubuntu) , [Melodic](https://wiki.ros.org/melodic)
-* cmake >= 3.11
-  * All OSes: [click here for installation instructions](https://cmake.org/install/)
 
 ## HOW TO RUN
 
