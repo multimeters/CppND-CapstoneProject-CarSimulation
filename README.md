@@ -1,6 +1,6 @@
 #  Car Simulation with MPC Controller 
 
-该代码实现了基于nonlinear MPC的轨迹跟踪控制，并解决了系统控制时延的问题。
+This code implements a car simulator. And implements MPC algorithm to control the simulated car to fllow a trajectory.
 
 ## Dependencies
 
