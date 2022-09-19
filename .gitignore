@@ -9,3 +9,4 @@ build/*
 devel/**
 .gitignore
 .catkin_workspace
+LICENSE
