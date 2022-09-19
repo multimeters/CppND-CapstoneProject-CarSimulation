@@ -51,8 +51,9 @@ not meet.
 ### Object Oriented Programming
 4.CRITERIA-The project uses Object Oriented Programming techniques.
 ```
-In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 20 . 
-I definate a class called mpc_car with class attributes to hold the data, and class methods to perform tasks.
+In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 20. 
+I definate a class called mpc_car with class attributes 
+to hold the data, and class methods to perform tasks.
 ```
 5.CRITERIA-Classes use appropriate access specifiers for class members.
 ```
@@ -63,15 +64,18 @@ I definate public members.
 ```
 6.CRITERIA-Class constructors utilize member initialization lists.
 ```
-In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 153 . I use class constructor utilize member initialization lists.
+In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 153 . 
+I use class constructor utilize member initialization lists.
 ```
 7.CRITERIA-Classes encapsulate behavior..
 ```
-meet the rubric, In "./src/mpc_car/include/mpc_car/mpc_car.hpp" line 20 . the difination of class MpcCar.
+meet the rubric, In "./src/mpc_car/include/mpc_car/mpc_car.hpp"
+ line 20 . the difination of class MpcCar.
 ```
 8.CRITERIA-Classes follow an appropriate inheritance hierarchy.
 ```
-meet the rubric, In "./src/car_simulator/src/car_simulator_nodelet.cpp", line 42 ,i inheritance from class Nodelet
+meet the rubric, In "./src/car_simulator/src/car_simulator_nodelet.cpp", line 42 ,
+i inheritance from class Nodelet
 ```
 9.CRITERIA-Overloaded functions allow the same function to operate on different parameters.
 ```
